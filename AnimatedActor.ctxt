@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AnimatedActor()
+comment1.params=name\ anim
+comment1.target=void\ storeAnimation(java.lang.String,\ com.badlogic.gdx.graphics.g2d.Animation)
+comment2.params=name\ tex
+comment2.target=void\ storeAnimation(java.lang.String,\ com.badlogic.gdx.graphics.Texture)
+comment3.params=name
+comment3.target=void\ setActiveAnimation(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getAnimationName()
+comment5.params=dt
+comment5.target=void\ act(float)
+comment6.params=batch\ parentAlpha
+comment6.target=void\ draw(com.badlogic.gdx.graphics.g2d.Batch,\ float)
+comment7.params=original
+comment7.target=void\ copy(AnimatedActor)
+comment8.params=
+comment8.target=AnimatedActor\ clone()
+numComments=9

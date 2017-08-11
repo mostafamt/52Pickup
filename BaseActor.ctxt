@@ -1,0 +1,31 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BaseActor()
+comment1.params=pl
+comment1.target=void\ setParentList(java.util.ArrayList)
+comment10.params=dt
+comment10.target=void\ act(float)
+comment11.params=batch\ parentAlpha
+comment11.target=void\ draw(com.badlogic.gdx.graphics.g2d.Batch,\ float)
+comment12.params=original
+comment12.target=void\ copy(BaseActor)
+comment13.params=
+comment13.target=BaseActor\ clone()
+comment2.params=
+comment2.target=void\ destroy()
+comment3.params=
+comment3.target=void\ setOriginCenter()
+comment4.params=target
+comment4.target=void\ moveToOrigin(BaseActor)
+comment5.params=t
+comment5.target=void\ setTexture(com.badlogic.gdx.graphics.Texture)
+comment6.params=
+comment6.target=void\ setRectangleBoundary()
+comment7.params=
+comment7.target=void\ setEllipseBoundary()
+comment8.params=
+comment8.target=com.badlogic.gdx.math.Polygon\ getBoundingPolygon()
+comment9.params=other\ resolve
+comment9.target=boolean\ overlaps(BaseActor,\ boolean)
+comment9.text=\r\n\ \ Determine\ if\ the\ collision\ polygons\ of\ two\ BaseActor\ objects\ overlap.\r\n\ \ If\ (resolve\ \=\=\ true),\ then\ when\ there\ is\ overlap,\ move\ this\ BaseActor\r\n\ \ \ \ along\ minimum\ translation\ vector\ until\ there\ is\ no\ overlap.\r\n
+numComments=14

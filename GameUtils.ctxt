@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=fileName\ frameCols\ frameRows\ frameDuration\ mode
+comment0.target=com.badlogic.gdx.graphics.g2d.Animation\ parseSpriteSheet(java.lang.String,\ int,\ int,\ float,\ com.badlogic.gdx.graphics.g2d.Animation.PlayMode)
+comment1.params=fileNamePrefix\ fileNameSuffix\ frameCount\ frameDuration\ mode
+comment1.target=com.badlogic.gdx.graphics.g2d.Animation\ parseImageFiles(java.lang.String,\ java.lang.String,\ int,\ float,\ com.badlogic.gdx.graphics.g2d.Animation.PlayMode)
+numComments=2
